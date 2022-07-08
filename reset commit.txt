@@ -1,1 +1,1 @@
-reset
+delete reset
